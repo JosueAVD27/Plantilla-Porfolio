@@ -1,0 +1,318 @@
+{
+    "titulo": {
+      "español": "Josue Velasquez",
+      "inglés": "Josue Velasquez"
+    },
+    "acercaDeDireccion": { 
+        "español": "acerca",
+        "inglés": "about"
+    },
+    "resumeDireccion": { 
+        "español": "currículum",
+        "inglés": "resume"
+    },
+    "portfolioDireccion": { 
+        "español": "portafolio",
+        "inglés": "portfolio"
+    },
+    "blogDireccion": { 
+        "español": "blog",
+        "inglés": "blog"
+    },
+    "contactDireccion": { 
+        "español": "contacto",
+        "inglés": "contact"
+    },
+    "btnVerContacto": {
+        "español": "Más Información",
+        "inglés": "Show Contacts"
+    },
+    "habilidades": {
+        "español": "Habilidades web",
+        "inglés": "Web Skills"
+    },
+    "curriculum": {
+        "español": "HOJA DE VIDA",
+        "inglés": "CURRICULUM"
+    },
+    "descargar": {
+        "español": "Descargar",
+        "inglés": "Download"
+    },
+    "correo": {
+        "español": "CORREO ELECTRÓNICO",
+        "inglés": "EMAIL"
+    },
+    "cumple": {
+        "español": "CUMPLEAÑOS",
+        "inglés": "BIRTHDAY"
+    },
+    "cumpleFecha": {
+        "español": "Septiembre 27, 2000",
+        "inglés": "September 27, 2000"
+    },
+    "telefono": {
+        "español": "TELÉFONO",
+        "inglés": "PHONE"
+    },
+    "ubicacion": {
+        "español": "UBICACIÓN",
+        "inglés": "LOCATION"
+    },
+    "sobreMi": {
+        "español": "Perfil",
+        "inglés": "Profile"
+    },
+    "acercaDe": {
+        "español": "Acerca",
+        "inglés": "About"
+    },
+    "acercaTexto1": {
+        "español": "Soy Armando Josue Velasquez Delgado, un estudiante de Ingeniería en Tecnologías de la Información y Comunicación con experiencia en desarrollo web, diseño gráfico y marketing digital. Me apasiona convertir problemas complejos en diseños sencillos, bonitos e intuitivos.",
+        "inglés": "I'm Armando Josue Velasquez Delgado, an Information and Communication Technologies Engineering student with experience in web development, graphic design and digital marketing. I am passionate about turning complex problems into simple, beautiful and intuitive designs."
+    },
+    "acercaTexto2": {
+        "español": "Mi objetivo es construir sitios web que sean funcionales y fáciles de usar, pero también atractivos y personalizados para transmitir la identidad y mensaje de cada cliente de manera creativa. He trabajado con varios lenguajes de programación y tengo experiencia en la creación y vectorización de imágenes, incluyendo logotipos.",
+        "inglés": "My goal is to build websites that are functional and easy to use, but also attractive and customized to convey the identity and message of each client in a creative way. I have worked with several programming languages and have experience in creating and vectorizing images, including logos."
+    },
+    "acercaTexto3": {
+        "español": "Disfruto de la oportunidad de trabajar con una variedad de empresas y marcas locales e internacionales. ¡Gracias por visitar mi sitio web!",
+        "inglés": "I enjoy the opportunity to work with a variety of local and international companies and brands. Thank you for visiting my website!"
+    },
+    "desempeños": {
+        "español": "Desempeños Actuales",
+        "inglés": "Current Performance"
+    },
+    "desempeño1": {
+        "español": "Diseño web",
+        "inglés": "Web Design"
+    },
+    "desempeño1Texto": {
+        "español": "Un diseño profesional de alta calidad y con un enfoque moderno.",
+        "inglés": "A high quality professional design with a modern approach."
+    },
+    "desempeño2": {
+        "español": "Desarrollo web",
+        "inglés": "Web Development"
+    },
+    "desempeño2Texto": {
+        "español": "Desarrollo de sitios de alta calidad a nivel profesional.",
+        "inglés": "High-quality development of sites at the professional level."
+    },
+    "desempeño3": {
+        "español": "Diseño gráfico",
+        "inglés": "Graphic Design"
+    },
+    "desempeño3Texto": {
+        "español": "Creación y desarrollo de diseños gráficos impactantes y efectivos.",
+        "inglés": "Creation and development of impactful and effective graphic designs.."
+    },
+    "desempeño4": {
+        "español": "Publicidad en redes sociales",
+        "inglés": "Advertising in social networks"
+    },
+    "desempeño4Texto": {
+        "español": "Anuncios de alta calidad en redes sociales para cualquier categoría a nivel profesional.",
+        "inglés": "High quality social media ads for any category at a professional level."
+    },
+    "desempeño5": {
+        "español": "Soporte y Mantenimiento Informático",
+        "inglés": "IT Support and Maintenance"
+    },
+    "desempeño5Texto": {
+        "español": "Actualización de equipos de cómputo, instalación y configuración de software y sistemas operativos.",
+        "inglés": "Updating of computer equipment, installation and configuration of software and operating systems."
+    },
+    "desempeño6": {
+        "español": "Modelado 3D",
+        "inglés": "3D Modeling"
+    },
+    "desempeño6Texto": {
+        "español": "Moderación y animación de logo en 3D.",
+        "inglés": "Moderation and 3D logo animation."
+    },
+    "testimonios": {
+        "español": "Testimonios",
+        "inglés": "Testimonials"
+    },
+    "clientes": {
+        "español": "Clientes",
+        "inglés": "Clients"
+    },
+    "resume": {
+        "español": "Currículum",
+        "inglés": "Resume"
+    },
+    "curriculum": {
+        "español": "Currículum",
+        "inglés": "Resume"
+    },
+    "education": {
+        "español": "Educación",
+        "inglés": "Education"
+    },
+    "univesity": {
+        "español": "Universidad de las Fuerzas Armadas \"ESPE\"",
+        "inglés": "University Of The Armed Forces \"ESPE\""
+    },
+    "highScohol": {
+        "español": "Bachillerato - Unidad Educativa \"Ernesto Alban Mosquera\"",
+        "inglés": "High School - Educational Unit \"Ernesto Alban Mosquera\""
+    },
+    "scohol": {
+        "español": "Escuela Primaria - Unidad Educativa \"Ernesto Alban Mosquera\"",
+        "inglés": "Primary school - Educational Unit \"Ernesto Alban Mosquera\""
+    },
+    "fechaUniversity": {
+        "español": "2019 — Actualmente",
+        "inglés": "2019 — Currently"
+    },
+    "textEducation1": {
+        "español": "Asisto a la universidad para obtener una Ingeniería en Tecnologías de la Información y Comunicación. Voy en 7mo semestre y durante estos años eh tenido la oportunidad de profundizar en mi campo de interés, tomar cursos especializados y trabajar en proyectos de investigación.",
+        "inglés": "I am attending college to pursue an Engineering degree in Information and Communication Technologies. I am in my 7th semester and during these years I have had the opportunity to delve deeper into my field of interest, take specialized courses and work on research projects."
+    },
+    "textEducation2": {
+        "español": "Continué mi educación secundaria en la misma escuela, donde obtuve el titulo de bachiller en Ciencias Generales. Durante este tiempo, tuve la oportunidad de explorar mis intereses y habilidades en una variedad de áreas.",
+        "inglés": "I continued my secondary education at the same school, where I obtained a bachelor's degree in General Science. During this time, I had the opportunity to explore my interests and abilities in a variety of areas."
+    },
+    "textEducation3": {
+        "español": "Asistí a la escuela primaria desde los 4 hasta los 10 años de edad. Durante estos años, adquirí las habilidades fundamentales en lectura, escritura y matemáticas, así como también aprendí los valores de la disciplina, el trabajo en equipo y la responsabilidad.",
+        "inglés": "I attended elementary school from the age of 4 to 10 years old. During these years, I acquired fundamental skills in reading, writing and mathematics, as well as learned the values of discipline, teamwork and responsibility."
+    },
+    "experience": {
+        "español": "Experiencia",
+        "inglés": "Experience"
+    },
+    "publicist_title": {
+        "español": "Publicista Creativo",
+        "inglés": "Creative Publicist"
+    },
+    "especialist_title": {
+        "español": "Especialista en Tecnología, Marketing y Diseño Gráfico",
+        "inglés": "Technology, Marketing and Graphic Design Specialist"
+    },
+    "tecnico_title": {
+        "español": "Técnico de hardware y software",
+        "inglés": "Hardware & Software Technician"
+    },
+    "assistant_title": {
+        "español": "Asistente administrativo",
+        "inglés": "Administrative Assistant"
+    },
+    "fechaExperience": {
+        "español": "2023 — Presente",
+        "inglés": "2023 — Present"
+    },
+    "textExperience1_1": {
+        "español": "Publicista, HINGELECTC CIA. LTDA.",
+        "inglés": "Publicist, HINGELECTC CIA. LTDA."
+    },
+    "textExperience1_2": {
+        "español": "Actividades: Publicidad en redes sociales (videos y post).",
+        "inglés": "Activities: Advertising in social networks (videos & post)."
+    },
+    "textExperience2_1_1": {
+        "español": "Marketing y Diseño Grafico, SCIEDTEC.",
+        "inglés": "Marketing and Graphic Design, SCIEDTEC."
+    },
+    "textExperience2_1_2": {
+        "español": "Actividades: Publicidad en redes sociales, Creación de videos, Diseño grafico y vectorización de logotipos.",
+        "inglés": "Activities: Advertising in social networks, Video creation, Graphic design & logo vectorization."
+    },
+    "textExperience2_2_1": {
+        "español": "Desarrollador Web, SCIEDTEC.",
+        "inglés": "Web Developer, SCIEDTEC."
+    },
+    "textExperience2_2_2": {
+        "español": "Actividades: Creación del sitio web principal, Mantenimiento de sistemas, Administrador de bases de datos, Mantenimiento de equipos y Especialista en Redes Sociales.",
+        "inglés": "Activities: Creation of the main website, Systems maintenance, Database administrator, Equipment maintenance & Social Networking Specialist."
+    },
+    "textExperience3_1": {
+        "español": "Técnico en equipos de computo y de paginas web, HINGELECTC CIA. LTDA.",
+        "inglés": "Technician in computer equipment & web pages, HINGELECTC CIA. LTDA."
+    },
+    "textExperience3_2": {
+        "español": "Actividades: Mantenimiento de equipos, Mantenimiento de pagina web y Diseño con plantillas.",
+        "inglés": "Activities: Equipment maintenance, Web page maintenance & Design with templates."
+    },
+    "textExperience4_1": {
+        "español": "Asistente Administrativo en el Área de Secretaria General, \"Unidad Educativa Iberoamericano\".",
+        "inglés": "Administrative Assistant in the General Secretary Area, \"Educational Unit Iberoamericano\"."
+    },
+    "textExperience4_2": {
+        "español": "Actividades: Registro de datos al sistema.",
+        "inglés": "Activities: Registration of data to the system."
+    },
+    "misCompetencias": {
+        "español": "Mis competencias",
+        "inglés": "My competences"
+    },
+    "webDesing": {
+        "español": "Diseño Web",
+        "inglés": "Web Design"
+    },
+    "webDevelopment": {
+        "español": "Desarrollo Web",
+        "inglés": "Web Development"
+    },
+    "graphcDesing": {
+        "español": "Diseño Gráfico",
+        "inglés": "Graphic Design"
+    },
+    "digitalMarketing": {
+        "español": "Marketing Digital",
+        "inglés": "Digital Marketing"
+    },
+    "tresDModeling": {
+        "español": "Modelado 3D",
+        "inglés": "3D Modeling"
+    },
+    "fontend": {
+        "español": "Lenguajes de front-end",
+        "inglés": "Front-end languages"
+    },
+    "backend": {
+        "español": "Lenguajes de back-end",
+        "inglés": "Back-end languages"
+    },
+    "databases": {
+        "español": "Bases de datos",
+        "inglés": "Databases"
+    },
+    "portfolio": {
+        "español": "Portafolio",
+        "inglés": "Portfolio"
+    },
+    "blog": {
+        "español": "Blog",
+        "inglés": "Blog"
+    },
+    "contact": {
+        "español": "Contacto",
+        "inglés": "Contact"
+    },
+    "contacto": {
+        "español": "Contacto",
+        "inglés": "Contact"
+    },
+    "formContact": {
+        "español": "Formulario de contacto",
+        "inglés": "Contact Form"
+    },
+    "formName": {
+        "español": "Nombres y Apellidos",
+        "inglés": "Full name"
+    },
+    "formMail": {
+        "español": "Dirección de correo electrónico",
+        "inglés": "Email address"
+    },
+    "formMessage": {
+        "español": "Su mensaje...",
+        "inglés": "Your Message..."
+    },
+    "formBtn": {
+        "español": "Enviar mensaje",
+        "inglés": "Send Message"
+    }
+  }
