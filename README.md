@@ -1,6 +1,6 @@
 # Plantilla de Portafolio Web Elegante
 
-![Vista previa de la plantilla](blob/portada.png)
+![Vista previa de la plantilla](blob/portada.jpg)
 
 ## Descripción
 
