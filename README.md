@@ -56,6 +56,7 @@ Si deseas contribuir a esta plantilla, sigue los pasos:
 
 Este proyecto está bajo la licencia [Licencia MIT](LICENSE).
 
----
+## Créditos
 
-¡Espero que este README te ayude a presentar tu plantilla de portafolio web de manera efectiva! Asegúrate de personalizarlo con detalles específicos de tu proyecto y de incluir capturas de pantalla que muestren la experiencia de usuario. Reemplaza `URL_del_repositorio` y las URL de las imágenes con las ubicaciones reales correspondientes.
+- Modificado por `Armando Josue Velasquez Delgado`.
+- Base del portfolio: `Si se encontro el repositorio del autor principal`.
