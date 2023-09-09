@@ -59,4 +59,4 @@ Este proyecto está bajo la licencia [Licencia MIT](LICENSE).
 ## Créditos
 
 - Modificado por `Armando Josue Velasquez Delgado`.
-- Base del portfolio: `Si se encontro el repositorio del autor principal`.
+- Base del portfolio: `No se encontro el repositorio del autor principal`.
