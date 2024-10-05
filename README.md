@@ -1,6 +1,6 @@
 # Plantilla de Portafolio Web Elegante
 
-![Vista previa de la plantilla](blob/portada.jpg)
+<img src="blob/portada.jpg" alt="Perfil usuario" width="600"/>
 
 ## Descripción
 
@@ -17,11 +17,13 @@ La Plantilla de Portafolio Web Elegante es una herramienta diseñada para crear 
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](blob/img1.png)
-![Captura de Pantalla 2](blob/img2.png)
-![Captura de Pantalla 3](blob/img3.png)
-![Captura de Pantalla 4](blob/img4.png)
-![Captura de Pantalla 5](blob/img5.png)
+<div style="display: flex">
+  <img src="blob/img1.png" alt="Perfil usuario" width="400"/>
+  <img src="blob/img2.png" alt="Perfil usuario" width="400"/>
+  <img src="blob/img3.png" alt="Perfil usuario" width="400"/>
+  <img src="blob/img4.png" alt="Perfil usuario" width="400"/>
+  <img src="blob/img5.png" alt="Perfil usuario" width="400"/>
+</div>
 
 ## Tecnologías Utilizadas
 
